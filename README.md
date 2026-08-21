@@ -1,6 +1,6 @@
 Hi there, I'm Jomarie! 👋
 
-🚀 U.S. Army Veteran | AWS Solutions Architect | AI Automation Strategist
+🚀 U.S. Army Veteran | Cloud Enthusiast | AI Automation Strategist
 
 I am a technical leader who thrives at the intersection of Cloud Infrastructure, Generative AI, and Strategic Sales. My mission is to bridge the gap between complex technical systems and high-growth business outcomes.
 
