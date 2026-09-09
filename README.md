@@ -25,7 +25,6 @@ I also enjoy exploring how **Generative AI can improve IT support, incident resp
 
 ### 🚀 Currently Learning
 - **AWS re/Start**
-- **CompTIA A+**
 
 ### 📜 Previously Certified
 - **AWS Certified Solutions Architect – Associate** — Expired
